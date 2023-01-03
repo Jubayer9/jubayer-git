@@ -1,5 +1,17 @@
 p{
     color: brown;
-    text-shadow: 25px;
+    text-shadow: 90px;
     font-size: 20px;
+}
+h1{ 
+    text-shadow:40px;
+    color: aqua;
+}
+h2{
+    text-shadow: 50px;
+    color: blue;
+}
+h3{ 
+text-underline-offset: 33px;
+text-shadow: 60px;
 }
